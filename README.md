@@ -43,42 +43,42 @@ Creating a gamified system with built-in monetization layers, focused on user en
 
 🧠 Technical Expertise
 🔍 Artificial Intelligence & Machine Learning
-Predictive modeling and data-driven trend forecasting
+- Predictive modeling and data-driven trend forecasting
 
-NLP pipelines and intelligent interface design
+- NLP pipelines and intelligent interface design
 
-AI chatbot systems for task automation and support
+- AI chatbot systems for task automation and support
 
 TensorFlow, Scikit-learn, custom ML workflows
 
-Real-time signal processing and data pipeline optimization
+- Real-time signal processing and data pipeline optimization
 
 ⚙️ Embedded Systems & Automation
 Microcontroller development (Arduino, STM32, Raspberry Pi)
 
-Real-time automation and control logic implementation
+- Real-time automation and control logic implementation
 
-Sensor fusion and edge-device integration
+- Sensor fusion and edge-device integration
 
-IoT architecture for smart, responsive environments
+- IoT architecture for smart, responsive environments
 
-Python scripting, API orchestration, and custom automation layers
+- Python scripting, API orchestration, and custom automation layers
 
 💻 Full Stack & Software Development
-Frontend: React, JavaScript, HTML/CSS
+- Frontend: React, JavaScript, HTML/CSS
 
-Backend: Python (Flask, Django), Node.js
+- Backend: Python (Flask, Django), Node.js
 
-RESTful API design and database systems (SQL & NoSQL)
+- RESTful API design and database systems (SQL & NoSQL)
 
-Git-based workflows, CI/CD pipelines, and modular architecture
+- Git-based workflows, CI/CD pipelines, and modular architecture
 
 ⚡ Systems Engineering & Infrastructure
-Circuit analysis, energy modeling, and power grid optimization
+- Circuit analysis, energy modeling, and power grid optimization
 
-Instrumentation, diagnostics, and embedded systems design
+- Instrumentation, diagnostics, and embedded systems design
 
-Bridging software-hardware interfaces with seamless control logic
+- Bridging software-hardware interfaces with seamless control logic
 
 <br>
 
